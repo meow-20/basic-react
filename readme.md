@@ -1,4 +1,4 @@
-how npx create-react-app command works!
+<!-- how npx create-react-app command works!
 npx (node package execute)
 npm (node package manager)
 
@@ -16,6 +16,6 @@ and dependencies.
 
 
 <!-- Vite -->
-npm create vite@latest
+<!-- npm create vite@latest -->
 
 
